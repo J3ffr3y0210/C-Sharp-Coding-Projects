@@ -1,0 +1,7 @@
+C:\Users\jeffrey\Desktop\Basic_HTML_and_JavaScript_1\C-Sharp-Coding-Projects\Arrays Assignment\Arrays Assignment\bin\Debug\Arrays Assignment.exe.config
+C:\Users\jeffrey\Desktop\Basic_HTML_and_JavaScript_1\C-Sharp-Coding-Projects\Arrays Assignment\Arrays Assignment\bin\Debug\Arrays Assignment.exe
+C:\Users\jeffrey\Desktop\Basic_HTML_and_JavaScript_1\C-Sharp-Coding-Projects\Arrays Assignment\Arrays Assignment\bin\Debug\Arrays Assignment.pdb
+C:\Users\jeffrey\Desktop\Basic_HTML_and_JavaScript_1\C-Sharp-Coding-Projects\Arrays Assignment\Arrays Assignment\obj\Debug\Arrays Assignment.csproj.AssemblyReference.cache
+C:\Users\jeffrey\Desktop\Basic_HTML_and_JavaScript_1\C-Sharp-Coding-Projects\Arrays Assignment\Arrays Assignment\obj\Debug\Arrays Assignment.csproj.CoreCompileInputs.cache
+C:\Users\jeffrey\Desktop\Basic_HTML_and_JavaScript_1\C-Sharp-Coding-Projects\Arrays Assignment\Arrays Assignment\obj\Debug\Arrays Assignment.exe
+C:\Users\jeffrey\Desktop\Basic_HTML_and_JavaScript_1\C-Sharp-Coding-Projects\Arrays Assignment\Arrays Assignment\obj\Debug\Arrays Assignment.pdb
