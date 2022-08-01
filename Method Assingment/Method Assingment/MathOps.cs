@@ -8,5 +8,20 @@ namespace Method_Assingment
 {
     class MathOps
     {
+        public int Sum(int f, int g)
+        {
+            return (f + g);
+        }
+
+        public int Subtract(int f, int g)
+        {
+            return (f - g);
+        }
+
+        public int Multuply(int f, int g)
+        {
+            return (f * g);
+        }
+
     }
 }
